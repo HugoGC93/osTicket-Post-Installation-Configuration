@@ -31,6 +31,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
+![image](https://github.com/HugoGC93/osTicket-Post-Installation-Configuration/assets/71940700/b7725f6f-3aa8-42e0-a2c1-60e821ddae4a)
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
